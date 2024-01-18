@@ -1,2 +1,14 @@
 /* font import for header */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Tektur&display=swap');
+
+header {
+    color: #fafafa;
+    text-align: center;
+    font-family: 'Tektur', sans-serif;
+  }
+
+  nav {
+    color: #fafafa;
+    text-align: center;
+    font-family: 'Tektur', sans-serif;
+  }
