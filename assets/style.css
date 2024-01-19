@@ -2,12 +2,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Tektur&display=swap');
 
 header {
+    color: #25468e;
+    text-align: center;
+    font-family: 'Tektur', sans-serif;
+  }
+
+nav {
     color: #fafafa;
     text-align: center;
     font-family: 'Tektur', sans-serif;
   }
 
-  nav {
+body {
+    /* background image */
+    background-image: url('./images/wcorpexternalmoon2.jpeg');
+    
+    /* background properties */
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+nav {
     color: #fafafa;
     text-align: center;
     font-family: 'Tektur', sans-serif;
