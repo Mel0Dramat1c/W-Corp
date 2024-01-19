@@ -1,2 +1,2 @@
 # W-Corp
-Practise project
+Practice project
